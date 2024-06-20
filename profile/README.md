@@ -1,13 +1,3 @@
-To set up this project simply:
-
-- Clone the **Kotlin** project
-- checkout to `development` branch
-- copy `local.properties.example`, change the name into `local.properties`
-- Fill in the credentials.
-- Store `google-services.json` in `./app/`
-- Edit `./app/src/main/res/xml/network_security_config.xml` to include ML_BASE_URL in the domain.
-- Build and run the app.
-
 ## <p align="center">HouseSpot</p>
 
 <p align="center">
@@ -49,7 +39,6 @@ To set up this project simply:
 ## Background
 
 In recent years following the COVID-19 pandemic, **home ownership rates in Indonesia have gone up drastically**, with the Central Bureau of Statistics reporting in 2022 that 83,99% of Indonesians are homeowners. While these numbers continue to increase with the growing population rate, millennials are facing numerous challenges when it comes to home buying, such as high housing prices and shortage of residential development land. Once these issues have been combated and the home has been bought, the next set of problems comes from figuring out how to handle repairs, renovations, and refurbishments. Our problem statement can be stated as: **“The process of buying and maintaining a house can be daunting and complicated, with many factors taken into consideration, made difficult by fluctuating housing prices and unreliable home repair services.”** Therefore, our team aims to create an app for **simplifying the needs of past, present, and future homeowners alike**, by providing area-based housing predictions for people looking to buy homes, as well as connecting people with reliable, experienced home service vendors.
-
 
 ## Repositories Documentation
 
