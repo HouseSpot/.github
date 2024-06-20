@@ -4,7 +4,7 @@
   <img src="../assets/logo.png" width="200" height="200" alt="HouseSpot Logo">
 </p>
 
-#### <p align="center">Find Your Home with One Touch!</p>
+#### <p align="center">Your Home Needs with One Touch!</p>
 
 <p align="center">This project aims to fulfill the requirements of the <strong><a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</a></strong>.</p>
 
